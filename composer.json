@@ -10,7 +10,7 @@
     ],
     "require": {
         "php": "^7.0|^8.0|^8.1",
-        "morganarnel/http-client": "v1.0.1.x-dev"
+        "morganarnel/http-client": "dev-master"
     },
     "require-dev": {
         "phpunit/phpunit": "^6.3",
