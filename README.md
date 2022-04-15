@@ -1,4 +1,4 @@
-iDimensionz's PHP client for Linode API v4.
+iDimensionz's PHP client for Linode API v4 - updated to work with PHP 8.0 and up
 
 See https://github.com/idimensionz/linode-api-v4-examples for examples of how to use this client.
 
