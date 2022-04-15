@@ -1,9 +1,9 @@
 {
-    "name": "idimensionz/linode-api-v4",
+    "name": "morganarnel/linode-api-v4",
     "description": "PHP client for Linode API v4",
     "type": "library",
     "require": {
-        "php": "^7.0",
+        "php": "^7.0|^8.0|^8.1",
         "idimensionz/http-client": "v1.0.1.x-dev"
     },
     "require-dev": {
@@ -20,8 +20,8 @@
     "license": "MIT License",
     "authors": [
         {
-            "name": "Jim Mullen",
-            "email": "info@idimensionz.com"
+            "name": "Morgan Arnel",
+            "email": "morgan@treesap.co.uk"
         }
     ]
 }
